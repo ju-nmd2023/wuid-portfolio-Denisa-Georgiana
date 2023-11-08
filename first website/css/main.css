@@ -1,0 +1,45 @@
+
+
+h1,
+header {
+  font-family: "Playfair Display SC", serif;
+}
+
+
+/*HEADER*/
+
+#logo {
+  font-weight: 600;
+  font-size: 2rem;
+  border: 2px solid purple;
+  display: inline;
+  padding: 5px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0%;
+}
+
+/*MAIN*/
+
+.main-img {
+  width: 50%;
+}
+
+/*CATEGORY SECTION*/
+
+figure {
+  margin-left: 0%
+}
+
+.category-image {
+  width: 40%;
+}
+
+/*FOOTER*/
+
+footer {
+    margin-top: 4rem;
+    border-top: 2px solid purple;
+
